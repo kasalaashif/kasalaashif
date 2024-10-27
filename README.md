@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kasala Ashif
 - 👀 I’m interested in Algorithms, Data Structures, Java, Machine Learning, and Python for Machine Learining.
-- 🌱 I’m a Ms CSE grad student at SUNY BUFFALO.
-- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Mail me on kasalaashif@gmail.com
 
 <!---
